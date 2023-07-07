@@ -1,0 +1,5 @@
+This is testing charactor stream IO
+run run run
+Time and Tide wait for no men
+why are you running?
+Don't be greedy dude
